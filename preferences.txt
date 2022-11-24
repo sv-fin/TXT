@@ -1,0 +1,7 @@
+{
+"favorite_film":"Inception",
+"favorite_tvshow":"Games of trone",
+"favorite_meal":"apple",
+"favorite_season":"summer",
+"country_which I visit":"ZaalBah_Austria"
+}
